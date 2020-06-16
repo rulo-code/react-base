@@ -1,4 +1,4 @@
-# React base with fundations
+# React base with foundations
 
 this project is a base ready to begin to build any other React project, It uses style to define foundations that you can configure according to your needs.
 
